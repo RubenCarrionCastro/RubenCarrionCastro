@@ -56,13 +56,3 @@ self-study and practice.
   </a>
 </p>
 
-
-**Nota:** Este gráfico muestra los lenguajes más usados en tus repositorios públicos. No refleja tu nivel de experiencia, sino la proporción de código por lenguaje.
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
