@@ -21,7 +21,7 @@ Graduated from the University of Cordoba. I'm from Cuenca, Spain. I'm keen on co
 
 #### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Mathematica](https://img.shields.io/badge/Mathematica-Red?logo=wolfram&color=red)&nbsp;
 ![ Matlab ](https://img.shields.io/badge/MATLAB-orange?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![ GFortran ](https://img.shields.io/badge/GFortran-734F96?style=flat&logoColor=white)
