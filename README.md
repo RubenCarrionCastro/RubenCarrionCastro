@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-Hey yo'! I'm Rubén a physicist student.
+Hey! I'm Rubén a physicist student.
 
 <p align="left">
 🚀Graduated from the University of Cordoba. I'm from Cuenca, Spain. I'm keen on complex system, quantum mechanics and strange simulations that bend reality. I'm going to update some physics-related code. Feel free to check it out, and if you're ready, you could dive into this fascinating world and help me 🤝.
