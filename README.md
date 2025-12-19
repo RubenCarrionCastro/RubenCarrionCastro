@@ -3,16 +3,22 @@
 Hey! I'm Rubén a physicist student.
 
 <p align="left">
-Graduated from the University of Cordoba. I'm from Cuenca, Spain. I'm keen on complex system, quantum mechanics and strange simulations that bend reality. I'm going to update some physics-related code. Feel free to check it out, and if you're ready, you could dive into this fascinating world and help me 🤝.
-  
-</p>
+I'm Rubén, a final-year Physics student at the University of Córdoba, Spain. 
+I am originally from Seville.
 
-- 🌱 I’m currently learning: to live with curiosity.
-- 🔭 I’m currently focusing on: myself. Physics, too
+My academic interests focus on theoretical and fundamental physics, with an emphasis on phenomenology, as well as experimental and computational physics, 
+especially particle physics, quantum field theory, high-energy physics, 
+and general relativity.
 
+This GitHub repository contains notes and exercises written in LaTeX 
+during my studies at the University of Córdoba (2021–2026) and my SICUE 
+exchange year at the University of Granada (2024–2025).
+
+I also plan to publish Mathematica codes developed as part of my 
+self-study and practice.
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=Jorbanejah&label=Profile%20views&color=blue&style=flat-square" alt="Jorbanejah" />
+ <img src="https://komarev.com/ghpvc/?username=RubenCarrionCastro&label=Profile%20views&color=blue&style=flat-square" alt="RubenCarrionCastro" />
 
 </p>
 
@@ -45,26 +51,14 @@ Graduated from the University of Cordoba. I'm from Cuenca, Spain. I'm keen on co
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jorge-orbaneja-a71a3b278?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqUtHdHFfQE65uyKQI5pm1w%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/jorge_orhuerta/" target="_blank">
+  <a href="[https://www.instagram.com/jorge_orhuerta/](https://www.instagram.com/ruben_carrion_03/?next=%2F)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:jorbanejahuerta@gmail.com" target="_blank">
+  <a href="mailto:rubenfisicauni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-## ⚡ Top Languages
-
-<p align="center">
-  <a href="https://github.com/Jorbanejah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorbanejah&langs_count=8&layout=compact" alt="Jorbanejah">
-  </a>
-</p>
 
 **Nota:** Este gráfico muestra los lenguajes más usados en tus repositorios públicos. No refleja tu nivel de experiencia, sino la proporción de código por lenguaje.
 
