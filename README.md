@@ -29,13 +29,9 @@ Graduated from the University of Cordoba. I'm from Cuenca, Spain. I'm keen on co
 
 
 
-#### Development
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+#### Documentation
+![LaTeX](https://img.shields.io/badge/LaTeX-Blue?logo=LaTeX&color=blue)&nbsp;
 
-
-#### Database
-
-![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
 
 #### Tools and Technologies
 
