@@ -48,7 +48,7 @@ self-study and practice.
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="[https://www.instagram.com/jorge_orhuerta/](https://www.instagram.com/ruben_carrion_03/?next=%2F)" target="_blank">
+  <a href="https://www.instagram.com/ruben_carrion_03/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:rubenfisicauni@gmail.com" target="_blank">
