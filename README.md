@@ -3,16 +3,14 @@
 Hey! I'm Rubén, a final-year Physics student at the University of Córdoba, Spain. 
 I am originally from Seville.
 
-My academic interests focus on theoretical and fundamental physics, with an emphasis on phenomenology, as well as experimental and computational physics, 
-especially particle physics, quantum field theory, high-energy physics, 
-and general relativity.
+My academic interests focus on theoretical and fundamental physics, with an emphasis on phenomenology, as well as experimental and computational physics. 
+Especially particle physics, quantum field theory, high-energy physics, and general relativity.
 
 This GitHub repository contains notes and exercises written in LaTeX 
 during my studies at the University of Córdoba (2021–2026) and my SICUE 
 exchange year at the University of Granada (2024–2025).
 
-I also plan to publish Mathematica codes developed as part of my 
-self-study and practice.
+I also plan to publish Mathematica codes developed as part of my self-study and practice.
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=RubenCarrionCastro&label=Profile%20views&color=blue&style=flat-square" alt="RubenCarrionCastro" />
@@ -45,7 +43,7 @@ self-study and practice.
 
 
 
-## 🤝 Connect with me
+## Contact with me!
 
 <p align="center">
   <a href="https://www.instagram.com/ruben_carrion_03/" target="_blank">
