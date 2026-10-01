@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 <p align="left">
-Hey! I'm Rubén, a final-year Physics student at the University of Córdoba, Spain. 
+Hey! I'm Rubén, a Physics graduate from the University of Córdoba, Spain. I am currently pursuing a master's degree in Particle Physics and Astrophysics at the University of Granada, Spain.
 I am originally from Seville.
 
 My academic interests focus on theoretical and fundamental physics, with an emphasis on phenomenology, as well as experimental and computational physics. 
